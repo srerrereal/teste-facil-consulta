@@ -2,7 +2,7 @@
 Modelo de estrutura para o teste de Desenvolvedor do Fácil Consulta
 
 ## Como usar
-Instalar a DB banco de dados, em seguida rodar o arquivo Index.php
+Instalar a DB banco-dados, em seguida rodar o arquivo Index.php
 
 ## Recomendações
 Ao utilizar a App, o modal irá abrir, para preencher as informações. Após isso clique em cadastrar. Você receberá um prompt avisando que o cadastro foi efetuado. Para apagar, ou atualizar um dos dados, utilize os botões Excluir e Editar, respectivamente
