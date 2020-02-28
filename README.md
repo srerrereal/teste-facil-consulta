@@ -1,21 +1,21 @@
-# Modelo de estrutura
+# Sistema CRUD em PHP
 Modelo de estrutura para o teste de Desenvolvedor do Fácil Consulta
 
 ## Como usar
-Clone ou faça um Fork desse repositorio.
-
-Desenvolva o que foi solicitado no teste, utilizando esse modelo.
+Instalar a DB banco de dados, em seguida rodar o arquivo Index.php
 
 ## Recomendações
-As configurações de conexão com o Banco de Dados devem estar no arquivo src/model/config-banco-dados.php
-
-A configuração da URL base, caso necessário, deve estar no arquivo src/config.php
-
-O arquivo de importação, contendo a estrutura e dados de exemplos, do Banco de Dados deve estar na pasta banco-dados
-
+Ao utilizar a App, o modal irá abrir, para preencher as informações. Após isso clique em cadastrar. Você receberá um prompt avisando que o cadastro foi efetuado. Para apagar, ou atualizar um dos dados, utilize os botões Excluir e Editar, respectivamente
 ## Informações
-A entrega do teste deve conter um README informando o que foi utilizado, veja o exemplo:
+Foi utilizado
 
-* PHP 5.4
+* PHP 7.2
 * Bootstrap 4
 * jQuery 3
+
+## Considerações finais
+
+Foi um teste tranquilo de se fazer, alguns minutos quebrando a cabeça na hora do Modal aparecer, bem no momento de renderizar a página. Deu pra tornar funcional, espero que tenha feito no nível desejado. Um abraço a equipe
+
+
+Rafael R. Real
